@@ -1,0 +1,7 @@
+.ignore
+*.turtle
+*.png
+*.zip
+*.pyc
+venv/
+__pycache__/
